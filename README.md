@@ -14,6 +14,10 @@ It calculates the ideal bottom margin from a selected primary text frame and app
 - Supports Korean, Japanese, Simplified Chinese, and Traditional Chinese interface languages
 - Supports light and dark UI modes
 
+## Installation
+
+[▶ Install from Adobe Exchange](https://exchange.adobe.com/publisher/cc/8aba98e3-91ce-4b9c-84d8-e17e9d29b322/mulgogi?page=1)
+
 ## Intended Use
 
 This plugin is intended for CJK typography and book layout workflows, especially Korean, Japanese, Simplified Chinese, and Traditional Chinese body text.
